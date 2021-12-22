@@ -17,8 +17,6 @@
 </a>
 </span>
 <hr>
-	
-### Everything i use
 <table border=1px>
 <tr></tr>
 <tr>
