@@ -1,11 +1,128 @@
-<h1 align="center">Hi 👋, I'm Burak</h1>
+<div align="center">
+    
+### My social media accounts
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/burak-muhammet-ürer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burak-muhammet-ürer" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10908385" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10908385" height="30" width="40" /></a>
-<a href="https://instagram.com/r6w.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r6w.m" height="30" width="40" /></a>
-</p>
+<span>
+  <a target="_blank" href="https://instagram.com/r6w.m">
+  <img alt="instagram" src="https://img.shields.io/badge/Instagram-%23323330.svg?&style=for-the-badge&logo=instagram&logoColor=c32aa3"/>
+  </a>
+  <a target="_blank" href="https://discordapp.com/users/257576708323016707/">
+  <img alt="discord" src="https://img.shields.io/badge/Discord-%23323330.svg?&style=for-the-badge&logo=discord"/>
+  </a>
+  <a target="_blank" href="https://linkedin.com/in/burak-muhammet-ürer">
+  <img alt="linkedin" src="https://img.shields.io/badge/Linkedin-%23323330.svg?&style=for-the-badge&logo=linkedin&logoColor=007bb5"/>
+  </a>
+  <a target="_blank" href="https://stackoverflow.com/users/10908385">
+  <img alt="stackoverflow" src="https://img.shields.io/badge/Stackoverflow-%23323330.svg?&style=for-the-badge&logo=stackoverflow"/>
+  </a>
+</span>
+ 
+<hr>
+  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  
+### Programming languages i use
+<table border=1px>
+    <tr>
+      <td colspan=4>
+        Web Development
+      </td>
+    </tr>
+  <tr><td colspan=4></td></tr>
+  <tr><td colspan=4>Frontend</td></tr>
+      <td>
+				Languages:
+			</td>
+      <td>
+				<img alt="html" src="https://img.shields.io/badge/Html-%23323330.svg?&style=for-the-badge&logo=html5"/>
+			</td>
+      <td>
+				<img alt="css" src="https://img.shields.io/badge/Css-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=1572B6"/>
+			</td>
+      <td>
+				<img alt="javascript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript"/>
+			</td>
+		</tr>
+		<tr>
+      <td>
+				Frameworks:
+			</td>
+      <td>
+				<img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-%23323330.svg?&style=for-the-badge&logo=bootstrap"/>
+			</td>
+      <td>
+				<img alt="jquery" src="https://img.shields.io/badge/jQuery-%23323330.svg?&style=for-the-badge&logo=jquery&logoColor=0769AD"/>
+			</td>
+      <td></td>
+		</tr>
+  <tr><td colspan=4></td></tr>
+    <tr><td colspan=4>Backend</td></tr>
+    <tr>
+      <td>
+				Languages:
+			</td>
+      <td>
+				<img alt="mysql" src="https://img.shields.io/badge/MySQL-%23323330.svg?&style=for-the-badge&logo=mysql"/>
+	 		</td>
+      <td>
+				<img alt="php" src="https://img.shields.io/badge/Php-%23323330.svg?&style=for-the-badge&logo=php"/>
+	 		</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+				Frameworks:
+			</td>
+      <td>
+				<img alt="laravel" src="https://img.shields.io/badge/Laravel-%23323330.svg?&style=for-the-badge&logo=laravel"/>
+			</td>
+      <td></td>
+      <td></td>
+    </tr>
+  <tr><td colspan=4></td></tr>
+  <tr><td colspan=4>Programs</td></tr>
+      <td>
+				<img alt="phpstorm" src="https://img.shields.io/badge/phpstorm-%23323330.svg?&style=for-the-badge&logo=phpstorm&logoColor=b940da"/>
+			</td>
+      <td>
+				<img alt="javascript" src="https://img.shields.io/badge/visual_studio_code-%23323330.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=0078d7"/>
+			</td>
+      <td>
+				<img alt="visualstudiocode" src="https://img.shields.io/badge/sublime_text-%23323330.svg?&style=for-the-badge&logo=sublime-text"/>
+			</td>
+		</tr>
+</table>
+
+<table border=1px>
+    <tr>
+      <td colspan=4>
+        Desktop Development
+      </td>
+    </tr>
+    <tr><td colspan=4></td></tr>
+    <tr>
+      <td>
+				Languages:
+			</td>
+      <td>
+				<img alt="c#" src="https://img.shields.io/badge/c%23-%23323330.svg?&style=for-the-badge&logo=c-sharp&logoColor=239120"/>
+			</td>
+    </tr>
+</table>
+
+<table border=1px>
+    <tr>
+      <td colspan=4>
+        Other Development
+      </td>
+    </tr>
+    <tr><td colspan=4></td></tr>
+    <tr>
+      <td>
+				Languages:
+			</td>
+      <td>
+				<img alt="python" src="https://img.shields.io/badge/Python-%23323330.svg?&style=for-the-badge&logo=python"/>
+			</td>
+    </tr>
+</table>
