@@ -1,4 +1,4 @@
-<img src="https://burakurer.com/wp-content/uploads/2021/12/burakurerlogo.png">
+[![burakurer.com](https://burakurer.com/wp-content/uploads/2021/12/burakurerlogo.png)](https://burakurer.com)
 
 ### My social media accounts
 <a target="_blank" href="https://instagram.com/r6w.m">
