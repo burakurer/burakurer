@@ -51,6 +51,8 @@
 <img alt="windows" src="https://img.shields.io/badge/Windows-000?&logo=windows&logoColor=0078D6"/>
 <img alt="linux" src="https://img.shields.io/badge/Linux-000?&logo=linux"/>
 <img alt="centos" src="https://img.shields.io/badge/CentOS-000?&logo=centos"/>
+<img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-000?&logo=ubuntu"/>
+<img alt="kalilinux" src="https://img.shields.io/badge/Kali_Linux-000?&logo=kalilinux"/>
 </p>
 
 ### SaaS
