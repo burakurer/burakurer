@@ -4,6 +4,9 @@
 <a target="_blank" href="https://instagram.com/r6w.m">
 <img alt="instagram" src="https://img.shields.io/badge/Instagram-000?&logo=instagram&logoColor=c32aa3"/>
 </a>
+<a target="_blank" href="https://open.spotify.com/user/minezeux">
+<img alt="spotify" src="https://img.shields.io/badge/Spotify-000?&logo=spotify"/>
+</a>
 <a target="_blank" href="https://discordapp.com/users/257576708323016707/">
 <img alt="discord" src="https://img.shields.io/badge/Discord-000?&logo=discord"/>
 </a>
@@ -40,10 +43,19 @@
 <img alt="xampp" src="https://img.shields.io/badge/XAMPP-000?&logo=xampp"/>
 </p>
 
+### Others
+<p>
+<img alt="openvpn" src="https://img.shields.io/badge/OpenVPN-000?&logo=Openvpn"/>
+<img alt="authy" src="https://img.shields.io/badge/Authy-000?&logo=authy&logoColor=ec1c24"/>
+<img alt="vmwareworkstationpro" src="https://img.shields.io/badge/VMware Workstation Pro-000?&logo=VMware"/>
+<img alt="vmwarevsphere" src="https://img.shields.io/badge/VMware vSphere-000?&logo=VMware"/>
+</p>
+
 ### Browsers
 <p>
 <img alt="firefox" src="https://img.shields.io/badge/Mozilla Firefox-000?&logo=Firefox-Browser"/>
 <img alt="tor" src="https://img.shields.io/badge/Tor-000?&logo=Tor-Browser&logoColor=7D4698"/>
+<img alt="brave" src="https://img.shields.io/badge/Brave-000?&logo=brave"/>
 </p>
 
 ### OS
@@ -57,9 +69,9 @@
 
 ### SaaS
 <p>
+<img alt="oracle" src="https://img.shields.io/badge/Oracle-000?&logo=oracle&logoColor=F80000"/>
 <img alt="amazon-aws" src="https://img.shields.io/badge/Amazon AWS-000?&logo=amazon-aws&logoColor=FF9900"/>
 <img alt="digitalocean" src="https://img.shields.io/badge/DigitalOcean-000?&logo=digitalOcean"/>
-<img alt="oracle" src="https://img.shields.io/badge/Oracle-000?&logo=oracle&logoColor=F80000"/>
 </p>
 
 <img src="https://camo.githubusercontent.com/a6af43479d42a1a2fb5c9b40ee7c8cb4166fe525162357d400ee99afe3eac2fa/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" width="50">
