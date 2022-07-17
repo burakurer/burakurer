@@ -54,8 +54,8 @@
 ### Browsers
 <p>
 <img alt="firefox" src="https://img.shields.io/badge/Mozilla Firefox-000?&logo=Firefox-Browser"/>
+<img alt="chrome" src="https://img.shields.io/badge/Chrome-000?&logo=googlechrome"/>
 <img alt="tor" src="https://img.shields.io/badge/Tor-000?&logo=Tor-Browser&logoColor=7D4698"/>
-<img alt="brave" src="https://img.shields.io/badge/Brave-000?&logo=brave"/>
 </p>
 
 ### OS
@@ -64,6 +64,7 @@
 <img alt="linux" src="https://img.shields.io/badge/Linux-000?&logo=linux"/>
 <img alt="centos" src="https://img.shields.io/badge/CentOS-000?&logo=centos"/>
 <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-000?&logo=ubuntu"/>
+<img alt="linuxmint" src="https://img.shields.io/badge/Linux%20Mint-000?&logo=linuxmint"/>
 <img alt="kalilinux" src="https://img.shields.io/badge/Kali_Linux-000?&logo=kalilinux"/>
 </p>
 
