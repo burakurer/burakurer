@@ -79,6 +79,3 @@
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=burakurer&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakurer&layout=compact&theme=midnight-purple">
-<hr>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
