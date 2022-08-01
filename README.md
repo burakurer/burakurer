@@ -28,6 +28,7 @@
 <img alt="discord" src="https://img.shields.io/badge/DiscordJS-000?&logo=discord"/>
 <img alt="php" src="https://img.shields.io/badge/Php-000?&logo=php"/>
 <img alt="laravel" src="https://img.shields.io/badge/Laravel-000?&logo=laravel"/>
+<img alt="laravellumen" src="https://img.shields.io/badge/Laravel%20Lumen-000?&logo=lumen"/>
 <img alt="c#" src="https://img.shields.io/badge/C%23-000?&logo=c-sharp&logoColor=239120"/>
 <img alt="python" src="https://img.shields.io/badge/Python-000?&logo=python"/>
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-000?&logo=mysql"/>
