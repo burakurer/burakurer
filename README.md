@@ -78,5 +78,7 @@
 
 <img src="https://camo.githubusercontent.com/a6af43479d42a1a2fb5c9b40ee7c8cb4166fe525162357d400ee99afe3eac2fa/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" width="50">
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=burakurer&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakurer&layout=compact&theme=midnight-purple">
+<a href="#">
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=burakurer&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple">
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakurer&layout=compact&theme=midnight-purple">
+</a>
