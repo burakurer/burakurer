@@ -1,7 +1,7 @@
 [![burakurer.com](https://burakurer.com/wp-content/uploads/2021/12/burakurerlogo.png)](https://burakurer.com)
 <img src="https://github.com/burakurer/burakurer/blob/output/github-contribution-grid-snake-dark.svg">
 ### My social media accounts
-<a target="_blank" href="https://instagram.com/r6w.m">
+<a target="_blank" href="https://instagram.com/burakurer_">
 <img alt="instagram" src="https://img.shields.io/badge/Instagram-000?&logo=instagram&logoColor=c32aa3"/>
 </a>
 <a target="_blank" href="https://open.spotify.com/user/minezeux">
