@@ -72,8 +72,9 @@
 
 ### SaaS
 <p>
-<img alt="oracle" src="https://img.shields.io/badge/Oracle-000?&logo=oracle&logoColor=F80000"/>
+<img alt="oracle-cloud" src="https://img.shields.io/badge/Oracle Cloud-000?&logo=oracle&logoColor=F80000"/>
 <img alt="amazon-aws" src="https://img.shields.io/badge/Amazon AWS-000?&logo=amazon-aws&logoColor=FF9900"/>
+<img alt="microsoft-azure" src="https://img.shields.io/badge/Microsoft%20Azure-000?&logo=microsoft-azure&logoColor=008AD7"/>
 <img alt="digitalocean" src="https://img.shields.io/badge/DigitalOcean-000?&logo=digitalOcean"/>
 </p>
 
