@@ -26,6 +26,7 @@
 <img alt="jquery" src="https://img.shields.io/badge/jQuery-000?&logo=jquery&logoColor=0769AD"/>
 <img alt="nodejs" src="https://img.shields.io/badge/NodeJS-000?&logo=node.js"/>
 <img alt="discord" src="https://img.shields.io/badge/DiscordJS-000?&logo=discord"/>
+<img alt="electonjs" src="https://img.shields.io/badge/ElectronJS-000?&logo=electron&logoColor=00aeff"/>
 <img alt="php" src="https://img.shields.io/badge/Php-000?&logo=php"/>
 <img alt="laravel" src="https://img.shields.io/badge/Laravel-000?&logo=laravel"/>
 <img alt="laravellumen" src="https://img.shields.io/badge/Laravel%20Lumen-000?&logo=lumen"/>
@@ -83,4 +84,5 @@
 <a href="#">
 <img height="175px" src="https://github-readme-stats.vercel.app/api?username=burakurer&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple">
 <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakurer&layout=compact&theme=midnight-purple">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@burakurer&langs_count=8&layout=compact&theme=midnight-purple"/>
 </a>
