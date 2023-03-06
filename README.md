@@ -1,4 +1,4 @@
-[![burakurer.com](https://burakurer.com/wp-content/uploads/2021/12/burakurerlogo.png)](https://burakurer.com)
+[![burakurer.com](https://cloud.burakurer.com/index.php/s/JmojpZk7doLxDn7/download/burakurerlogo.png)](https://burakurer.com)
 <img src="https://github.com/burakurer/burakurer/blob/output/github-contribution-grid-snake-dark.svg">
 ### My social media accounts
 <a target="_blank" href="https://instagram.com/burakurer_">
