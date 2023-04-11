@@ -33,6 +33,7 @@
 <img alt="c#" src="https://img.shields.io/badge/C%23-000?&logo=c-sharp&logoColor=239120"/>
 <img alt="python" src="https://img.shields.io/badge/Python-000?&logo=python"/>
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-000?&logo=mysql"/>
+<img alt="mongodb" src="https://img.shields.io/badge/MongoDB%20Atlas-000?&logo=mongodb"/>
 </p>
 
 ### IDE & Programs
