@@ -17,7 +17,7 @@
 <img alt="stackoverflow" src="https://img.shields.io/badge/Stackoverflow-000?&logo=stackoverflow"/>
 </a>
 
-### Programming languages and frameworks
+### Programming languages, frameworks & databases
 <p>
 <img alt="html" src="https://img.shields.io/badge/Html-000?&logo=html5"/>
 <img alt="css" src="https://img.shields.io/badge/Css-000?&logo=css3&logoColor=1572B6"/>
