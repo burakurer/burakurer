@@ -54,10 +54,13 @@
 <img alt="postman" src="https://img.shields.io/badge/Postman-000?&logo=postman"/>
 <img alt="vmwareworkstationpro" src="https://img.shields.io/badge/VMware Workstation Pro-000?&logo=VMware"/>
 <img alt="vmwarevsphere" src="https://img.shields.io/badge/VMware vSphere-000?&logo=VMware"/>
+<img alt="lastpass" src="https://img.shields.io/badge/LastPass-000?&logo=Lastpass"/>
+<img alt="anydesk" src="https://img.shields.io/badge/Anydesk-000?&logo=Anydesk"/>
 </p>
 
 ### Browsers
 <p>
+<img alt="safari" src="https://img.shields.io/badge/Safari-000?&logo=Safari"/>
 <img alt="firefox" src="https://img.shields.io/badge/Mozilla Firefox-000?&logo=Firefox-Browser"/>
 <img alt="chrome" src="https://img.shields.io/badge/Chrome-000?&logo=googlechrome"/>
 <img alt="tor" src="https://img.shields.io/badge/Tor-000?&logo=Tor-Browser&logoColor=7D4698"/>
@@ -65,6 +68,7 @@
 
 ### OS
 <p>
+<img alt="macos" src="https://img.shields.io/badge/macOS-000?&logo=macos"/>
 <img alt="windows" src="https://img.shields.io/badge/Windows-000?&logo=windows&logoColor=0078D6"/>
 <img alt="linux" src="https://img.shields.io/badge/Linux-000?&logo=linux"/>
 <img alt="centos" src="https://img.shields.io/badge/CentOS-000?&logo=centos"/>
