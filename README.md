@@ -48,6 +48,7 @@
 
 ### Others
 <p>
+<img alt="termius" src="https://img.shields.io/badge/Termius-000?&logo=Termius"/>
 <img alt="openvpn" src="https://img.shields.io/badge/OpenVPN-000?&logo=Openvpn"/>
 <img alt="authy" src="https://img.shields.io/badge/Authy-000?&logo=authy&logoColor=ec1c24"/>
 <img alt="postman" src="https://img.shields.io/badge/Postman-000?&logo=postman"/>
