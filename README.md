@@ -40,6 +40,7 @@
 <p>
 <img alt="phpstorm" src="https://img.shields.io/badge/PhpStorm-000?&logo=phpstorm&logoColor=b940da"/>
 <img alt="pycharm" src="https://img.shields.io/badge/PyCharm-000?&logo=pycharm&logoColor=yellow"/>
+<img alt="datagrip" src="https://img.shields.io/badge/DataGrip-000?&logo=datagrip&logoColor=2fce98"/>
 <img alt="visualstudio" src="https://img.shields.io/badge/Visual Studio-000?&logo=visual-studio&logoColor=5C2D91"/>
 <img alt="visualstudiocode" src="https://img.shields.io/badge/Visual Studio Code-000?&logo=visual-studio-code&logoColor=0078d7"/>
 <img alt="sublimetext" src="https://img.shields.io/badge/Sublime Text-000?&logo=sublime-text"/>
@@ -54,15 +55,18 @@
 <img alt="postman" src="https://img.shields.io/badge/Postman-000?&logo=postman"/>
 <img alt="vmwareworkstationpro" src="https://img.shields.io/badge/VMware Workstation Pro-000?&logo=VMware"/>
 <img alt="vmwarevsphere" src="https://img.shields.io/badge/VMware vSphere-000?&logo=VMware"/>
+<img alt="bitwarden" src="https://img.shields.io/badge/Bitwarden-000?&logo=bitwarden"/>
 <img alt="lastpass" src="https://img.shields.io/badge/LastPass-000?&logo=Lastpass"/>
 <img alt="anydesk" src="https://img.shields.io/badge/Anydesk-000?&logo=Anydesk"/>
+<img alt="notion" src="https://img.shields.io/badge/Notion-000?&logo=notion"/>
 </p>
 
 ### Browsers
 <p>
-<img alt="safari" src="https://img.shields.io/badge/Safari-000?&logo=Safari"/>
+<img alt="safari" src="https://img.shields.io/badge/Safari-000?&logo=Safari&logoColor=2292ee"/>
 <img alt="firefox" src="https://img.shields.io/badge/Mozilla Firefox-000?&logo=Firefox-Browser"/>
 <img alt="chrome" src="https://img.shields.io/badge/Chrome-000?&logo=googlechrome"/>
+<img alt="microsoftedge" src="https://img.shields.io/badge/Microsoft Edge-000?&logo=microsoftedge&logoColor=31c1e3"/>
 <img alt="tor" src="https://img.shields.io/badge/Tor-000?&logo=Tor-Browser&logoColor=7D4698"/>
 </p>
 
@@ -85,7 +89,6 @@
 <img alt="digitalocean" src="https://img.shields.io/badge/DigitalOcean-000?&logo=digitalOcean"/>
 </p>
 
-<img src="https://camo.githubusercontent.com/a6af43479d42a1a2fb5c9b40ee7c8cb4166fe525162357d400ee99afe3eac2fa/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" width="50">
 <hr>
 <a href="#">
 <img height="175px" src="https://github-readme-stats.vercel.app/api?username=burakurer&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple">
