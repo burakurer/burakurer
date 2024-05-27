@@ -10,7 +10,7 @@
 <a target="_blank" href="https://discordapp.com/users/257576708323016707/">
 <img alt="discord" src="https://img.shields.io/badge/Discord-000?&logo=discord"/>
 </a>
-<a target="_blank" href="https://linkedin.com/in/burak-muhammet-ürer">
+<a target="_blank" href="https://linkedin.com/in/burakurer">
 <img alt="linkedin" src="https://img.shields.io/badge/Linkedin-000?&logo=linkedin&logoColor=007bb5"/>
 </a>
 <a target="_blank" href="https://stackoverflow.com/users/10908385">
