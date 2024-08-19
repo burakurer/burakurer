@@ -1,4 +1,4 @@
-[![burakurer.com](https://cdn.discordapp.com/attachments/836883611142717484/1161049343013433374/mYpvOMRlKV8.png)](https://burakurer.com)
+[![burakurer.com](https://cdn.discordapp.com/attachments/836883611142717484/1275183997592408145/PeJSdPwtYm8.png?ex=66c4f724&is=66c3a5a4&hm=0af1e3343f7391f2461b13cf12204e6640d21c5eb5167474218c4e661891b994&)](https://burakurer.com)
 <img src="https://github.com/burakurer/burakurer/blob/output/github-contribution-grid-snake-dark.svg">
 ### My social media accounts
 <a target="_blank" href="https://instagram.com/burakurer_">
@@ -6,9 +6,6 @@
 </a>
 <a target="_blank" href="https://open.spotify.com/user/minezeux">
 <img alt="spotify" src="https://img.shields.io/badge/Spotify-000?&logo=spotify"/>
-</a>
-<a target="_blank" href="https://discordapp.com/users/257576708323016707/">
-<img alt="discord" src="https://img.shields.io/badge/Discord-000?&logo=discord"/>
 </a>
 <a target="_blank" href="https://linkedin.com/in/burakurer">
 <img alt="linkedin" src="https://img.shields.io/badge/Linkedin-000?&logo=linkedin&logoColor=0A66C2"/>
@@ -71,7 +68,6 @@
 <img alt="firefox" src="https://img.shields.io/badge/Mozilla Firefox-000?&logo=Firefox-Browser"/>
 <img alt="arc" src="https://img.shields.io/badge/Arc-000?&logo=arc&logoColor=FCBFBD"/>
 <img alt="chrome" src="https://img.shields.io/badge/Chrome-000?&logo=googlechrome"/>
-<img alt="microsoftedge" src="https://img.shields.io/badge/Microsoft Edge-000?&logo=microsoftedge&logoColor=31c1e3"/>
 <img alt="tor" src="https://img.shields.io/badge/Tor-000?&logo=Tor-Browser&logoColor=7D4698"/>
 </p>
 
@@ -79,18 +75,17 @@
 <p>
 <img alt="macos" src="https://img.shields.io/badge/macOS-000?&logo=macos"/>
 <img alt="windows" src="https://img.shields.io/badge/Windows-000?&logo=windows&logoColor=0078D6"/>
-<img alt="linux" src="https://img.shields.io/badge/Linux-000?&logo=linux&logoColor=FCC624"/>
-<img alt="centos" src="https://img.shields.io/badge/CentOS-000?&logo=centos&logoColor=262577"/>
 <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-000?&logo=ubuntu&logoColor=E95420"/>
+<img alt="centos" src="https://img.shields.io/badge/CentOS-000?&logo=centos&logoColor=262577"/>
 <img alt="linuxmint" src="https://img.shields.io/badge/Linux%20Mint-000?&logo=linuxmint&logoColor=87CF3E"/>
 <img alt="kalilinux" src="https://img.shields.io/badge/Kali_Linux-000?&logo=kalilinux&logoColor=557C94"/>
 </p>
 
-### SaaS
+### Cloud
 <p>
+<img alt="hetzner" src="https://img.shields.io/badge/Hetzner-000?&logo=hetzner&logoColor=D50C2D"/>
+<img alt="ovh" src="https://img.shields.io/badge/OVHcloud-000?&logo=ovh&logoColor=123F6D"/>
 <img alt="oracle-cloud" src="https://img.shields.io/badge/Oracle Cloud-000?&logo=oracle&logoColor=F80000"/>
-<img alt="amazon-aws" src="https://img.shields.io/badge/Amazon AWS-000?&logo=amazon-aws&logoColor=FF9900"/>
-<img alt="microsoft-azure" src="https://img.shields.io/badge/Microsoft%20Azure-000?&logo=microsoft-azure&logoColor=0078D4"/>
 <img alt="digitalocean" src="https://img.shields.io/badge/DigitalOcean-000?&logo=digitalOcean"/>
 </p>
 
