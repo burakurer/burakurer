@@ -1,97 +1,86 @@
-[![burakurer.com](https://cdn.discordapp.com/attachments/836883611142717484/1275183997592408145/PeJSdPwtYm8.png?ex=66c4f724&is=66c3a5a4&hm=0af1e3343f7391f2461b13cf12204e6640d21c5eb5167474218c4e661891b994&)](https://burakurer.com)
-<img src="https://github.com/burakurer/burakurer/blob/output/github-contribution-grid-snake-dark.svg">
-### My social media accounts
-<a target="_blank" href="https://instagram.com/burakurer_">
-<img alt="instagram" src="https://img.shields.io/badge/Instagram-000?&logo=instagram&logoColor=c32aa3"/>
-</a>
-<a target="_blank" href="https://open.spotify.com/user/minezeux">
-<img alt="spotify" src="https://img.shields.io/badge/Spotify-000?&logo=spotify"/>
-</a>
-<a target="_blank" href="https://linkedin.com/in/burakurer">
-<img alt="linkedin" src="https://img.shields.io/badge/Linkedin-000?&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a target="_blank" href="https://stackoverflow.com/users/10908385">
-<img alt="stackoverflow" src="https://img.shields.io/badge/Stackoverflow-000?&logo=stackoverflow"/>
-</a>
+<div align="center">
+  <img src="https://github.com/burakurer/burakurer/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
 
-### Programming languages, frameworks & databases
+# Merhaba, Ben Burak M. Ürer 👋
+
+**System Administrator & Senior Full Stack Developer** 7 yıla yaklaşan tecrübemle, PHP (Laravel) ve Headless e-ticaret ekosistemlerinde ölçeklenebilir çözümler üretiyorum. Projeleri sadece yazılım katmanında kodlamakla kalmaz; Linux, Nginx ve VMware gibi sunucu altyapılarının kurulumundan, güvenlik yapılandırmalarına (Server Hardening) ve CI/CD süreçlerine kadar uçtan uca kurgularım. Hedefim, her zaman **Clean Code** prensipleriyle yüksek performanslı, güvenli ve sürdürülebilir web mimarileri inşa etmektir.
+
+📫 **Bana Ulaşın:** [urer.com.tr](https://urer.com.tr) | [burakurer.dev](https://burakurer.dev) | [LinkedIn](https://linkedin.com/in/burakurer) | [E-Posta](mailto:burak@urer.com.tr)
+
+---
+
+### 🚀 Neler Yapıyorum?
+
+- 💻 **Ürer Kreatif** markası altında kurumsal web projeleri ve e-ticaret (WooCommerce, Shopify) altyapıları geliştiriyorum.
+- ⚙️ **DevOps & Sistem Yönetimi:** Hetzner, Plesk ve Nginx altyapılarında yüksek erişilebilirlik (High Availability) ve güvenlik optimizasyonları sağlıyorum.
+- 🏗️ **Headless Commerce:** RESTful API'ler tüketerek Laravel tabanlı dinamik ve ölçeklenebilir e-ticaret arayüzleri inşa ediyorum.
+- 🌱 **Şu an Öğreniyorum:** C# (ASP.NET Core MVC), React & Next.js
+
+---
+
+### 🛠️ Teknoloji Yığını & Araç Çantam
+
+**Backend & Mimari**
 <p>
-<img alt="html" src="https://img.shields.io/badge/Html-000?&logo=html5&logoColor=E34F26"/>
-<img alt="css" src="https://img.shields.io/badge/Css-000?&logo=css3&logoColor=1572B6"/>
-<img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-000?&logo=bootstrap&logoColor=7952B3"/>
-<img alt="javascript" src="https://img.shields.io/badge/JavaScript-000?&logo=javascript"/>
-<img alt="jquery" src="https://img.shields.io/badge/jQuery-000?&logo=jquery&logoColor=0769AD"/>
-<img alt="nodejs" src="https://img.shields.io/badge/NodeJS-000?&logo=node.js"/>
-<img alt="discord" src="https://img.shields.io/badge/DiscordJS-000?&logo=discord"/>
-<img alt="electonjs" src="https://img.shields.io/badge/ElectronJS-000?&logo=electron&logoColor=47848F"/>
-<img alt="php" src="https://img.shields.io/badge/Php-000?&logo=php"/>
-<img alt="laravel" src="https://img.shields.io/badge/Laravel-000?&logo=laravel"/>
-<img alt="laravellumen" src="https://img.shields.io/badge/Laravel%20Lumen-000?&logo=lumen"/>
-<img alt="c#" src="https://img.shields.io/badge/C%23-000?&logo=csharp&logoColor=512BD4"/>
-<img alt="python" src="https://img.shields.io/badge/Python-000?&logo=python&logoColor=3776AB"/>
-<img alt="mysql" src="https://img.shields.io/badge/MySQL-000?&logo=mysql"/>
-<img alt="mongodb" src="https://img.shields.io/badge/MongoDB%20Atlas-000?&logo=mongodb"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP_8+-000?style=for-the-badge&logo=php&logoColor=777BB4"/>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=239120"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
 </p>
 
-### IDE & Programs
+**DevOps, Sunucu & Bulut (Cloud)**
 <p>
-<img alt="phpstorm" src="https://img.shields.io/badge/PhpStorm-000?&logo=phpstorm&logoColor=b940da"/>
-<img alt="pycharm" src="https://img.shields.io/badge/PyCharm-000?&logo=pycharm&logoColor=yellow"/>
-<img alt="datagrip" src="https://img.shields.io/badge/DataGrip-000?&logo=datagrip&logoColor=2fce98"/>
-<img alt="fleet" src="https://img.shields.io/badge/PyCharm-000?&logo=pycharm&logoColor=yellow"/>
-<img alt="visualstudio" src="https://img.shields.io/badge/Visual Studio-000?&logo=visual-studio&logoColor=5C2D91"/>
-<img alt="visualstudiocode" src="https://img.shields.io/badge/Visual Studio Code-000?&logo=visual-studio-code&logoColor=0078d7"/>
-<img alt="sublimetext" src="https://img.shields.io/badge/Sublime Text-000?&logo=sublime-text"/>
-<img alt="laragon" src="https://img.shields.io/badge/Laragon-000?&logo=laragon&logoColor=0E83CD"/>
-<img alt="xampp" src="https://img.shields.io/badge/XAMPP-000?&logo=xampp"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx&logoColor=009639"/>
+  <img alt="Apache" src="https://img.shields.io/badge/Apache-000?style=for-the-badge&logo=apache&logoColor=D22128"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img alt="VMware" src="https://img.shields.io/badge/VMware_vSphere-000?style=for-the-badge&logo=vmware&logoColor=607078"/>
+  <img alt="Hetzner" src="https://img.shields.io/badge/Hetzner-000?style=for-the-badge&logo=hetzner&logoColor=D50C2D"/>
+  <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-000?style=for-the-badge&logo=digitalocean&logoColor=0080FF"/>
+  <img alt="OVHcloud" src="https://img.shields.io/badge/OVHcloud-000?style=for-the-badge&logo=ovh&logoColor=123F6D"/>
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/CI/CD-000?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
 </p>
 
-### Others
+**Frontend & Kullanıcı Deneyimi**
 <p>
-<img alt="raycast" src="https://img.shields.io/badge/Raycast-000?&logo=raycast&logoColor=FF6363"/>
-<img alt="termius" src="https://img.shields.io/badge/Termius-000?&logo=Termius"/>
-<img alt="warp" src="https://img.shields.io/badge/Warp-000?&logo=Warp"/>
-<img alt="openvpn" src="https://img.shields.io/badge/OpenVPN-000?&logo=Openvpn"/>
-<img alt="authy" src="https://img.shields.io/badge/Authy-000?&logo=authy&logoColor=ec1c24"/>
-<img alt="postman" src="https://img.shields.io/badge/Postman-000?&logo=postman"/>
-<img alt="vmwareworkstationpro" src="https://img.shields.io/badge/VMware Workstation Pro-000?&logo=VMware"/>
-<img alt="vmwarevsphere" src="https://img.shields.io/badge/VMware vSphere-000?&logo=VMware"/>
-<img alt="bitwarden" src="https://img.shields.io/badge/Bitwarden-000?&logo=bitwarden&logoColor=175DDC"/>
-<img alt="lastpass" src="https://img.shields.io/badge/LastPass-000?&logo=Lastpass"/>
-<img alt="anydesk" src="https://img.shields.io/badge/Anydesk-000?&logo=Anydesk"/>
-<img alt="notion" src="https://img.shields.io/badge/Notion-000?&logo=notion"/>
+  <img alt="React" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript_ES6+-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 </p>
 
-### Browsers
+**Veritabanı & Önbellekleme**
 <p>
-<img alt="safari" src="https://img.shields.io/badge/Safari-000?&logo=Safari&logoColor=006CFF"/>
-<img alt="firefox" src="https://img.shields.io/badge/Mozilla Firefox-000?&logo=Firefox-Browser"/>
-<img alt="arc" src="https://img.shields.io/badge/Arc-000?&logo=arc&logoColor=FCBFBD"/>
-<img alt="chrome" src="https://img.shields.io/badge/Chrome-000?&logo=googlechrome"/>
-<img alt="tor" src="https://img.shields.io/badge/Tor-000?&logo=Tor-Browser&logoColor=7D4698"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis&logoColor=DC382D"/>
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=003B57"/>
 </p>
 
-### OS
+**Geliştirme Ortamı, İş Akışı & Araçlar**
 <p>
-<img alt="macos" src="https://img.shields.io/badge/macOS-000?&logo=macos"/>
-<img alt="windows" src="https://img.shields.io/badge/Windows-000?&logo=windows&logoColor=0078D6"/>
-<img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-000?&logo=ubuntu&logoColor=E95420"/>
-<img alt="centos" src="https://img.shields.io/badge/CentOS-000?&logo=centos&logoColor=262577"/>
-<img alt="linuxmint" src="https://img.shields.io/badge/Linux%20Mint-000?&logo=linuxmint&logoColor=87CF3E"/>
-<img alt="kalilinux" src="https://img.shields.io/badge/Kali_Linux-000?&logo=kalilinux&logoColor=557C94"/>
+  <img alt="macOS" src="https://img.shields.io/badge/macOS-000?style=for-the-badge&logo=macos&logoColor=White"/>
+  <img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-000?style=for-the-badge&logo=phpstorm&logoColor=000000"/>
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4"/>
+  <img alt="Warp" src="https://img.shields.io/badge/Warp-000?style=for-the-badge&logo=warp&logoColor=01A4FF"/>
+  <img alt="Termius" src="https://img.shields.io/badge/Termius-000?style=for-the-badge&logo=termius&logoColor=FFFFFF"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=000000"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032"/>
 </p>
 
-### Cloud
-<p>
-<img alt="hetzner" src="https://img.shields.io/badge/Hetzner-000?&logo=hetzner&logoColor=D50C2D"/>
-<img alt="ovh" src="https://img.shields.io/badge/OVHcloud-000?&logo=ovh&logoColor=123F6D"/>
-<img alt="oracle-cloud" src="https://img.shields.io/badge/Oracle Cloud-000?&logo=oracle&logoColor=F80000"/>
-<img alt="digitalocean" src="https://img.shields.io/badge/DigitalOcean-000?&logo=digitalOcean"/>
-</p>
+---
 
-<hr>
-<a href="#">
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=burakurer&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple">
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakurer&layout=compact&theme=midnight-purple">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@burakurer&langs_count=8&layout=compact&theme=midnight-purple"/>
-</a>
+### 📊 GitHub İstatistikleri
+
+<div align="center">
+  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=burakurer&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="GitHub Stats" />
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakurer&layout=compact&theme=midnight-purple" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@burakurer&langs_count=8&layout=compact&theme=midnight-purple" alt="WakaTime Stats" />
+</div>
