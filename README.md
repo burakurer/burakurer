@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/burakurer/burakurer/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/burakurer/burakurer/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 # Merhaba, Ben Burak M. Ürer 👋
