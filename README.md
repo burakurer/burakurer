@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/burakurer/burakurer/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
-# Merhaba, Ben Burak M. Ürer 👋
+# Merhaba, Ben Burak Ürer 👋
 
 **System Administrator & Senior Full Stack Developer** 7 yıla yaklaşan tecrübemle, PHP (Laravel) ve Headless e-ticaret ekosistemlerinde ölçeklenebilir çözümler üretiyorum. Projeleri sadece yazılım katmanında kodlamakla kalmaz; Linux, Nginx ve VMware gibi sunucu altyapılarının kurulumundan, güvenlik yapılandırmalarına (Server Hardening) ve CI/CD süreçlerine kadar uçtan uca kurgularım. Hedefim, her zaman **Clean Code** prensipleriyle yüksek performanslı, güvenli ve sürdürülebilir web mimarileri inşa etmektir.
 
